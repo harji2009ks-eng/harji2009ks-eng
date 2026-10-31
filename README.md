@@ -15,7 +15,7 @@
 ## `01` — WHO AM I?
 
 ```yaml
-name: Harjith KS
+name: Harjith
 username: harji2009ks-eng
 role: Computer Science Student
 location: India
