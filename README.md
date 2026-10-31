@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:082F49,100:06B6D4&text=HARJITH%20KS&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:082F49,100:06B6D4&text=HARJITH%20&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/harji2009ks-eng">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hello%2C+World!+I'm+Harjith+;Computer+Science+Student;Exploring+AI+%26+Software+Development;Turning+Ideas+Into+Real+World+Solutions;Always+Learning.+Always+Building."/>
